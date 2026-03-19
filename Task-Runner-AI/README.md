@@ -26,6 +26,7 @@
 GEMINI_API_KEY=your_api_key_here
 ```
 ---
+
 ## Example Usage
 
 - python main.py "Explain how the calculator renders the result to the console." --verbose
