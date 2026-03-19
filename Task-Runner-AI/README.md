@@ -30,9 +30,9 @@ GEMINI_API_KEY=your_api_key_here
 
 - python main.py "Explain how the calculator renders the result to the console." --verbose
 - python main.py "get the contents of lorem.txt" --verbose
-- python main.py 'create a new README.md file with content "# calculator"'
-- python main.py "run tests.py"
-- python main.py "what files are in the root?"
+- python main.py 'create a new README.md file with content "# calculator"' --verbose
+- python main.py "run tests.py" --verbose
+- python main.py "what files are in the root?" --verbose
 ---
 ## Recommended: use a virtual environment:
 python -m venv .venv
